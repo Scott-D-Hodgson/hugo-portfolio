@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "themes/bootstrap"]
+	path = themes/bootstrap
+	url = git@github.com:Scott-D-Hodgson/hugo-theme-bootstrap
