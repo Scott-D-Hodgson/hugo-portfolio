@@ -4,3 +4,6 @@
 [submodule "themes/bootstrap"]
 	path = themes/bootstrap
 	url = git@github.com:Scott-D-Hodgson/hugo-theme-bootstrap
+[submodule "content/how-to/raspberry-pi"]
+	path = content/how-to/raspberry-pi
+	url = git@github.com:Scott-D-Hodgson/Raspberry-Pi
